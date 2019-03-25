@@ -1,0 +1,9 @@
+C:\Users\jaesu\Desktop\SimplePaletteQuantizer\bin\Debug\SimplePaletteQuantizer.exe
+C:\Users\jaesu\Desktop\SimplePaletteQuantizer\bin\Debug\SimplePaletteQuantizer.pdb
+C:\Users\jaesu\Desktop\SimplePaletteQuantizer\obj\Debug\CGProj2.csprojAssemblyReference.cache
+C:\Users\jaesu\Desktop\SimplePaletteQuantizer\obj\Debug\SimplePaletteQuantizer.MainForm.resources
+C:\Users\jaesu\Desktop\SimplePaletteQuantizer\obj\Debug\SimplePaletteQuantizer.Properties.Resources.resources
+C:\Users\jaesu\Desktop\SimplePaletteQuantizer\obj\Debug\CGProj2.csproj.GenerateResource.cache
+C:\Users\jaesu\Desktop\SimplePaletteQuantizer\obj\Debug\CGProj2.csproj.CoreCompileInputs.cache
+C:\Users\jaesu\Desktop\SimplePaletteQuantizer\obj\Debug\SimplePaletteQuantizer.exe
+C:\Users\jaesu\Desktop\SimplePaletteQuantizer\obj\Debug\SimplePaletteQuantizer.pdb
